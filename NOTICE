@@ -1,0 +1,14 @@
+ContentFactory
+Copyright (c) 2026 ContentFactory contributors
+
+This product is licensed under the MIT License (see LICENSE).
+
+Third-party services used optionally at runtime (not bundled, not affiliated):
+
+- Google Gemini / Google AI — subject to Google terms and your API agreement
+- Snapgen — subject to Snapgen terms; accessed via your own browser session
+- Zsky — subject to Zsky terms; accessed via your own browser session
+- FFmpeg — LGPL/GPL depending on build; install separately
+- faster-whisper / Whisper models — follow their model and package licenses
+
+ContentFactory does not redistribute those services’ proprietary software or content.

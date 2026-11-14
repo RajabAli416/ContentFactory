@@ -1,0 +1,65 @@
+# Environment & secrets
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+credentials*.json
+**/service-account*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+.envrc
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+htmlcov/
+.coverage
+.coverage.*
+dist/
+build/
+*.egg
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+*.log
+npm-debug.log*
+yarn-error.log*
+
+# Local runtime data
+data/projects/*
+!data/projects/.gitkeep
+data/assets/*
+!data/assets/.gitkeep
+data/exports/*
+!data/exports/.gitkeep
+data/logs/*
+!data/logs/.gitkeep
+data/database/*
+!data/database/.gitkeep
+data/chrome-profile/*
+!data/chrome-profile/.gitkeep
+data/tmp_*/
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Misc
+tmp/
+temp/
+*.tmp
+*.bak
+.cache/
