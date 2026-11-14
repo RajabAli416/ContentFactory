@@ -53,7 +53,7 @@ Works on **Windows**, **macOS**, and **Linux**.
 ### 1. Clone
 
 ```bash
-git clone https://github.com/YOUR_USER/ContentFactory.git
+git clone https://github.com/RajabAli416/ContentFactory.git
 cd ContentFactory
 ```
 

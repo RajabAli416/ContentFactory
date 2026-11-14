@@ -25,9 +25,9 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/YOUR_USER/ContentFactory"
-Documentation = "https://github.com/YOUR_USER/ContentFactory#readme"
-Issues = "https://github.com/YOUR_USER/ContentFactory/issues"
+Homepage = "https://github.com/RajabAli416/ContentFactory"
+Documentation = "https://github.com/RajabAli416/ContentFactory#readme"
+Issues = "https://github.com/RajabAli416/ContentFactory/issues"
 
 [tool.pytest.ini_options]
 asyncio_mode = "auto"
